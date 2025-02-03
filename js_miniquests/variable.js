@@ -1,3 +1,5 @@
+"use strict"
+
 const name = "제이슨"
 let age = 28
 let height = 180.1
